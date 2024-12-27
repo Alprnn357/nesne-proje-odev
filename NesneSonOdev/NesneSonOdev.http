@@ -1,0 +1,6 @@
+@NesneSonOdev_HostAddress = http://localhost:5048
+
+GET {{NesneSonOdev_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
